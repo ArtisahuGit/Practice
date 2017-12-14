@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86030" started-at="2017-12-14T16:30:18Z" finished-at="2017-12-14T16:31:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="86030" started-at="2017-12-14T16:30:18Z" finished-at="2017-12-14T16:31:44Z">
+      <class name="com.Demoqa.Display_Grid">
+        <test-method status="PASS" signature="Run()[pri:0, instance:com.Demoqa.Display_Grid@5622fdf]" name="Run" duration-ms="85999" started-at="2017-12-14T22:00:18Z" finished-at="2017-12-14T22:01:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Run -->
+      </class> <!-- com.Demoqa.Display_Grid -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
