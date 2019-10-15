@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="86030" started-at="2017-12-14T16:30:18Z" finished-at="2017-12-14T16:31:44Z">
+  <suite name="Suite" duration-ms="60658" started-at="2017-12-15T18:07:41Z" finished-at="2017-12-15T18:08:41Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="86030" started-at="2017-12-14T16:30:18Z" finished-at="2017-12-14T16:31:44Z">
+    <test name="Test" duration-ms="60658" started-at="2017-12-15T18:07:41Z" finished-at="2017-12-15T18:08:41Z">
       <class name="com.Demoqa.Display_Grid">
-        <test-method status="PASS" signature="Run()[pri:0, instance:com.Demoqa.Display_Grid@5622fdf]" name="Run" duration-ms="85999" started-at="2017-12-14T22:00:18Z" finished-at="2017-12-14T22:01:44Z">
+        <test-method status="PASS" signature="Run()[pri:0, instance:com.Demoqa.Display_Grid@4cdbe50f]" name="Run" duration-ms="60656" started-at="2017-12-15T23:37:41Z" finished-at="2017-12-15T23:38:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Run -->
       </class> <!-- com.Demoqa.Display_Grid -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

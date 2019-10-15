@@ -11,7 +11,7 @@ public class Drag {
 	public static void main(String[] args) throws InterruptedException {
 		
 		WebDriver driver = new FirefoxDriver();
-		driver.get("http://demoqa.com/draggable/");
+		 driver.get("http://demoqa.com/draggable/");
 		WebElement source = driver.findElement(By.cssSelector("#draggable"));
 		Actions act = new Actions(driver);
 		act.dragAndDropBy(source, 246, 150).build().perform();
